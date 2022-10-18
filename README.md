@@ -85,7 +85,7 @@ build-std = ["core"]
 
 ### 开始之前准备
 
-1. 在电脑中下载启动 wokwi 的命令 [wokwi-server](https://github.com/MabezDev/wokwi-serv
+1. 在电脑中下载启动 wokwi 的命令 [wokwi-server](https://github.com/MabezDev/wokwi-server)
 
 ### 开始测试
 
